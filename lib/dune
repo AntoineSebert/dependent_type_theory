@@ -1,0 +1,2 @@
+(library
+ (name dependent_type_theory))

@@ -1,0 +1,4 @@
+(executable
+ (public_name dependent_type_theory)
+ (name main)
+ (libraries dependent_type_theory))

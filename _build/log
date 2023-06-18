@@ -1,0 +1,5 @@
+# dune init project dependent_type_theory
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /home/antoine/repos/dependent_type_theory
+# Auto-detected concurrency: 16
